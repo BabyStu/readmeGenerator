@@ -1,33 +1,19 @@
-# REadme generator
-
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+# README generator
 
 
 ## Description
-generates readmes
+This application generates professional READMEs.
 
-## Installation
-add node_moduels
+## Install
+User will need to have up to date JSON package to run application.
 
 ## Usage
-run node index.js
+In your terminal run node index.js to start up the application , and answer the questions in the terminal 
 
-## License
-Distributed under the IBM License.
+## CLICK THE SCREENSHOT BELOW!
 
-## Contributing
-steve weede
-
-## Tests
-just try it
+[![Screenshot](./Assets/screenshot.png)](https://youtu.be/Quh3qZBFpDE)
 
 ## Questions
 Please send questions to:
-steveweede@yahhoo.com or to babystu at Github
+steveweede@yahoo.com or Babystu @ GitHub
